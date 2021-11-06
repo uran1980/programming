@@ -57,3 +57,4 @@
 ### Ссылки
 
 * [Оригинал статьи](http://www.stolyarov.info/lessons/why_unix.html)
+* [Программирование в 3 томах](http://www.stolyarov.info/books/programming_intro/dmk)
